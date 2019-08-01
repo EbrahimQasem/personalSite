@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  background-color:#ededed;
+}
+
+.all{
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: #d4d4d4;
+  padding-bottom: 25%;
+  padding-top: 2%;
+  color: #634747;
+}
+
+input{
+  border-radius: 12%;
+  margin-top: 2%;
+}
+
+textarea{
+  border-radius: 12%;
+  margin-top: 2%;
+}
+
+.message{
+  margin-bottom: 10%;
+}
